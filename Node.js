@@ -1,3 +1,3 @@
-alert("JAWA");
+alert("ASSALAMUALAIKUM");
 
 console.log("RAFFI")
